@@ -17,7 +17,8 @@ function SubjectCard(props) {
             onMouseOut={handleMouseOut}
             style={{
                 backgroundColor: isMouseOver && "#0f4c75",
-                color: isMouseOver && "#fff"
+                color: isMouseOver && "#fff",
+                transition: "all 0.5s ease-in"
             }}>
             <h1 className="title">{props.title}</h1>
         </div>

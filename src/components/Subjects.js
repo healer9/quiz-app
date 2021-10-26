@@ -11,14 +11,14 @@ function Subjects() {
                     <div className="subject-div" key={topic.title}>
                         <Link to={topic.path}>
                             <SubjectCard
-                                key={topic.id}
+                                key={topic.title}
                                 title={topic.title}
                             />
                         </Link>
                     </div>
                 )
             })}
-        </div >
+        </div>
     )
 }
 
