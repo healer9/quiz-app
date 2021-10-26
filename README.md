@@ -3,10 +3,14 @@
 This App contains topics that are the fundamentals of CS branch.
 And also asked in placement interviews.
 
-## Built With
+**_Click to [View](https://healer9.github.io/quiz-app/#)_**
 
-React Js
-CSS
+## Tech Stack
+
+- Database : MongoDB
+- FrontEnd : React Js
+- Backend : Node Js (Express Js)
+- Styling : CSS
 
 ## Home Page
 
@@ -16,7 +20,7 @@ CSS
 
 <img src="screenShots/Conformation-page.png" width="1920" />
 
-## Quiz Page
+## Question Page
 
 <img src="screenShots/Quiz-page.png" width="1920" />
 
@@ -26,4 +30,4 @@ CSS
 
 ## Author
 
-### `Anas Riyaz`
+## `Anas Riyaz`
