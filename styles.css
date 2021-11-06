@@ -192,7 +192,7 @@ i:hover {
     padding: 2%;
     display: flex;
     justify-content: space-around;
-    height: 500px;
+    height: 470px;
 }
 
 .quiz-container {
@@ -272,7 +272,7 @@ p {
     background: #fff;
     border-radius: 7px;
     box-shadow: 0 2px 5px #ccc;
-    padding: 20px;
+    padding: 15px;
     border: none;
     width: 100%;
     margin: 5px;
@@ -412,7 +412,7 @@ span {
 }
 
 .nav-btn {
-    padding: 1% 7%;
+    padding: 0 7%;
     display: flex;
     justify-content: space-between;
 }
